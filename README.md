@@ -68,10 +68,13 @@ graph TD
 ## Screenshots
 
 ### 1. SonarCloud Quality Gate Failure
-*(Student: Insert your SonarCloud dashboard screenshot here showing the Security Hotspots and failed Quality Gate)*
+
+<img width="1802" height="862" alt="Screenshot 2026-09-06 204959" src="https://github.com/user-attachments/assets/bf075b6c-0a3c-43b7-8f19-3bae3ee9db05" />
 
 ### 2. Semgrep CLI Vulnerability Detection
-*(Student: Insert your terminal screenshot here showing Semgrep catching the XSS vulnerability in the local code)*
+
+<img width="1212" height="860" alt="Screenshot 2026-09-06 205042" src="https://github.com/user-attachments/assets/e80f7101-2ea8-4aa8-8eb7-00dba67b169a" />
+<img width="1031" height="845" alt="Screenshot 2026-09-06 205059" src="https://github.com/user-attachments/assets/ec57b884-0576-4f76-95d2-f5df005ac1a3" />
 
 ---
 
